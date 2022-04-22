@@ -1,0 +1,157 @@
+.nav-item{
+    margin-left: 20% !important;
+    color: #17859e ;
+
+}
+.w-100{
+    height: 500px !important;
+    width: 100% !important;
+}
+.doublecote{
+    margin-left: 600px !important;
+    padding: 1%;
+   
+}
+.mari{
+    font-size: x-large;
+    text-align: right;
+}
+.edith{
+    margin-left: 40px !important;
+    margin-right: 40px !important;
+}
+.col p{
+    margin-top: 30px !important;
+    color: #17859e;
+    font-weight: 700;
+    text-align: center;
+}
+.col img{
+    height: 200px!important;
+    width: 100%!important;
+}
+
+.dith p{
+    text-align: center;
+    color: black;
+    width: 270% !important;
+}
+.dar{
+    background-color: #17859e;
+    width: 70% !important;
+    display: flex;
+}
+.ron img{
+    width: 50% !important;
+    height: 40% !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    margin-top: 100% !important;
+}
+.ron{
+    margin-left: 50px;
+
+}
+.dar img{
+    margin-right: -10%;
+    margin-top: -5% !important;
+    width: 100% !important;
+}
+.joie{
+    display: flex;
+    margin-top: 10% !important;
+}
+.joie img{
+    height: 70% !important;
+    width: 300% !important;
+}
+.joie p{
+    margin-left: -20% !important; 
+}
+.test{
+    text-align: center !important;
+    margin-bottom: 10% !important;background-image: url("./image/bg.jpeg");
+    height: 100vh !important;
+    display: flex;
+}
+.test p{
+    background-color: rgba(0, 0, 0, 0.24);
+    margin-left: 50%;
+    color: white;
+}
+.test img{
+    height: 350px !important;
+    width: 300px !important;
+    margin-right: 120% !important;
+    margin-top: 100%;
+
+}
+.test h1{
+    margin-left: 50%;
+    color: white;
+}
+.miss .col{
+   
+    color: #17859e;
+    margin: 5%;
+}
+li{
+    margin-left: 20px;
+    color: black !important;
+
+}
+.haricot{
+    height: 50px !important;
+    background-color: #17859e;
+    height: 200%;
+    width: 50%;
+
+}
+h5{
+    color: rgb(7, 7, 7) !important;
+}
+
+.prestige{
+    margin: 20px;
+}
+.confort{
+    margin: 10px;
+}
+h2{
+    text-align: center;
+    font-size: x-large;
+}
+.lasse{
+    background-color: #d9d9d9;
+}
+.babe{
+    background-color: #d9d9d9;
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+.eo{
+    transition: all 2s ease;
+    margin: 20px;
+}
+.eo:hover{
+border-radius: 50% !important;
+border: 5px solid blue;
+}
+/* .mo{
+    display: none;
+} */
+/* .out{
+    display: initial;
+} */

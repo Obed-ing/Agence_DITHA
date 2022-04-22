@@ -1,0 +1,103 @@
+.nav-item{
+    margin-left: 20% !important;
+
+}
+.w-100{
+    height: 500px !important;
+    width: 100% !important;
+}
+.po img{
+    height: 500px !important;
+    width: 100%;
+}
+
+.di{
+    background-color: #17859e;
+    padding: 2%;
+   font-size: 300%;
+}
+.bo{
+    background-color: #77b21a;
+    font-size: x-large;
+    margin-left: 20%;
+}
+.cho{
+    background-color: #9ab0e0;
+    font-size: x-large;
+    margin-left: 20%;
+    margin: 2%;
+}
+.tom{
+    padding: 5%;
+}
+
+
+
+.doublecote{
+    margin-left: 40%;
+    padding: 2%;
+   
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
+h3{
+    background-color: #77b21a;
+    margin-left: 5%;
+}
+.bae{
+    display: flex;
+    margin-left: 50%;
+}
+.chou{
+    display: flex;
+    background-color: #9ab0e0;
+    margin-left: 20%;
+}
+h5{
+    margin-left: 50%;
+}
+.doux{
+    font-size: x-large;
+    margin-left: 10%;
+}
+.money{
+    font-size: x-large;
+    margin: 2%;
+}
+
+.beta{
+    font-size: x-large;
+    padding: 2%;
+}
+.mir{
+    font-size: larger;
+    margin-left: 5%;
+
+}
+
+.obed img{
+    width: 100% !important;
+    
+}
+.nose{
+    margin-bottom: 5% !important;
+    background-color: #d9d9d9;
+}
+.rare{
+    text-align: center;
+    margin: 0px;
+    font-size: larger;
+}
+
+.rore{
+    background-color: #d9d9d9;
+    
+    
+}
+
+.so,.se,.ri,.ra,.sa,.re,.lo{
+    margin: 10px !important;
+  
+}
